@@ -1,1 +1,1 @@
-cmd /k pipenv run python app.py amazon --checkshipping
+cmd /k pipenv run python app.py amazon --test
